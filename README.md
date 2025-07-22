@@ -52,7 +52,7 @@ int main(){
 
 https://leetcode.cn/problems/n-queens/description/
 
-![image-20250602210453986](../assets/image-20250602210453986.png)
+![image-20250602210453986](https://github.com/xuegao2005/DFS/blob/main/image-20250602210453986.png)
 
 法一
 
