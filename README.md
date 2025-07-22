@@ -2,7 +2,7 @@
 
 ## 基础案例
 
-![image-20250602203323831](/Users/xuegao/Documents/note/assets/image-20250602203323831.png)
+![image-20250602203323831](https://github.com/xuegao2005/DFS/blob/main/image-20250602203323831.png)
 
 ```c++
 #include <iostream>
